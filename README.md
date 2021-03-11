@@ -12,3 +12,9 @@ Nessa nova implementação a NETFLIX foca em publico específico, os fãs de ani
 Implementando uma nova visão ao site da NETFLIX, onde ele agora foca exclusivamente em disponibilizar animes em sua página.  
 
 Incrementando Projeto adicionando funções JavaScript que dão vida aos botões da tela, adicionando e redimensionado imagens usando CSS, colocando caixa de pesquisa.
+
+Segue abixo algumas imagens da minha página:
+
+https://ibb.co/0YXM7dz
+
+https://ibb.co/fqmGjbL
