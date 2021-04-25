@@ -17,4 +17,4 @@ Este projeto tem o objetivo de refinar as minhas habilidades com as ferramentas 
 * Adiconando caixa de pesquisa
 
 # Imagem
-![alt text](https://github.com/Leandrors91/recriando-a-pagina-da-netflix/blob/master/netflix-clone/img/minhaTela.png "Filme Principal")
+![alt text](https://github.com/Leandrors91/recriando-a-pagina-da-netflix/blob/master/img/pagina.png "Filme Principal")
